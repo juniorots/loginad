@@ -5,4 +5,4 @@ git add pom.xml
 git add README.md
 git add montarCommit.sh
 
-git commit -m "Prova conceito Microsoft Acure / LDAP"
+git commit -m "Prova conceito Microsoft Azure / LDAP"
